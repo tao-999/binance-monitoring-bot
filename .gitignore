@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# 编译/打包
+build/
+dist/
+*.egg-info/
+
+# 环境隔离
+.env
+.venv/
+venv/
+
+# 日志
+logs/
+*.log
+
+# IDE/编辑器
+.vscode/
+.idea/
+
+# macOS/Linux
+.DS_Store
+
+# 单元测试缓存
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据临时缓存（可选）
+*.tmp
+*.bak
